@@ -21,7 +21,7 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 ## 🚀 How to Use
 
 1. **Download the files**
-   - Download `Healthcare_Analytics_Dashboard.pbix` from this repository.
+   - Download [`Healthcare_Analytics_Dashboard.pbix`](Healthcare_Analytics_Dashboard.pbix) from this repository.
 
 2. **Open in Power BI Desktop**
    - Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you don't have it already (free).

@@ -24,8 +24,9 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 - Monitor patient satisfaction.
 - Identify states with the highest patient count.
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+## Dashboard Preview
+
+![Healthcare Dashboard](Dashboard.png)
 
 ## 👩‍💻 Author
 **Ashima Pradhan**

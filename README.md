@@ -33,7 +33,7 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
    - Click on any bar/segment to cross-filter other visuals on the page.
 
 4. **View without Power BI**
-   - If you don't have Power BI installed, check the `Healthcare_Analytics_Dashboard.pdf` file in this repo for a static preview of all visuals.
+   - If you don't have Power BI installed, check the [`Healthcare_Analytics_Dashboard.pdf`](Healthcare_Analytics_Dashboard.pdf)  file in this repo for a static preview of all visuals.
 
 ## ⚙️ Requirements
 - Power BI Desktop (Windows only) — [Download here](https://powerbi.microsoft.com/desktop/)

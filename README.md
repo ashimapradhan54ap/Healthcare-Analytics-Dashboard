@@ -50,3 +50,6 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 
 ## 👩‍💻 Author
 **Ashima Pradhan**
+
+- Aspiring Healthcare Data Analyst
+- GitHub: https://github.com/ashimapradhan54ap

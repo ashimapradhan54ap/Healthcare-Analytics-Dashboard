@@ -18,6 +18,26 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 - Treatment Cost by Medical Condition
 - Interactive Filters (State and Gender)
 
+## How to Use
+
+1. **Download the files**
+   - Download `Healthcare_Analytics_Dashboard.pbix` from this repository.
+
+2. **Open in Power BI Desktop**
+   - Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you don't have it already (free).
+   - Open the `.pbix` file directly in Power BI Desktop.
+
+3. **Explore the dashboard**
+   - Use the **State** and **Gender** slicers at the top to filter the data.
+   - Hover over any chart (bar, donut, etc.) to see detailed tooltips.
+   - Click on any bar/segment to cross-filter other visuals on the page.
+
+4. **View without Power BI**
+   - If you don't have Power BI installed, check the `Healthcare_Analytics_Dashboard.pdf` file in this repo for a static preview of all visuals.
+
+## Requirements
+- Power BI Desktop (Windows only) — [Download here](https://powerbi.microsoft.com/desktop/)
+
 ## 🎯 Key Insights
 - Analyze patient demographics.
 - Compare treatment costs across medical conditions.
